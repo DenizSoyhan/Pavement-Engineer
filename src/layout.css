@@ -830,3 +830,14 @@
 
 
 }
+@media (max-width:420px){
+
+  .titleDateContainer{
+    font-size: 0.7rem;
+  }
+  .description{
+    font-size: 0.8rem;
+  }
+
+
+}
