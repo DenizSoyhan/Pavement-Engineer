@@ -71,8 +71,6 @@ function Home({ articleModules }) {
               <div className="articleShowCaseContainer">
                 {isPinned && (
                   <div className="pinnedInfoContainer">
-                    <p>Pinned</p>
-
                     <FontAwesomeIcon
                       icon={faThumbTack}
                       className="pin-icon"
