@@ -1,6 +1,6 @@
 export const BlogConfig = {
-    blogName: "SimplyBlog",
-    slogan: "Never been simpler..."
+    blogName: "Pavement Engineer",
+    slogan: "I thought I was going to be someone..."
   };
   
   export default BlogConfig;
